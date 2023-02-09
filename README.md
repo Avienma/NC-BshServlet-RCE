@@ -9,6 +9,7 @@ Usage：
 命令输入python NC Rce.py
 
 
+![图片](https://user-images.githubusercontent.com/83112602/217751870-94ae7d0d-0dc6-433b-9a78-75bba7e60f3b.png)
 
 
 结果自动保存在succes.txt
