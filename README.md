@@ -1,5 +1,7 @@
 **用友 NC bsh.servlet.BshServlet远程命令RCE探测脚本**
 **严禁用于非法渗透 仅做技术交流**
+
+
 请在python3环境下使用
 
 Usage： 
